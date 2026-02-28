@@ -15,7 +15,7 @@ It explores trends, product ratings and customer reviews using interactive dashb
 -How to visualize insights in PowerBi.
 
 ## Preview
-
+![Dashboard Screenshot](**Amazon E-commerce Sales (Powerbi).JPG**)
 
 >Click the image above to see a preview of the final dashboard.
 
